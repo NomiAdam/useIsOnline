@@ -1,2 +1,4 @@
 README.md
 jest.config.json
+.idea
+yarn.error.log

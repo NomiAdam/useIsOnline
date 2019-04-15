@@ -1,5 +1,5 @@
 {
-  "name": "useIsOnline",
+  "name": "use-is-online",
   "version": "0.0.1",
   "description": "Experimental network availability React hook.",
   "author": "Adam Kvasnička",
