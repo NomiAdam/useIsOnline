@@ -1,6 +1,6 @@
 {
   "name": "use-is-online",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Experimental network availability React hook.",
   "author": "Adam Kvasnička",
   "repository": "https://github.com/NomiAdam/useIsOnline",
@@ -29,7 +29,7 @@
   },
   "peerDependencies": {
     "ramda": ">=0.26.1",
-    "react": ">=16.8.3",
+    "react": ">=16.8.6",
     "public-ip": ">=3.0.0"
   },
   "devDependencies": {
