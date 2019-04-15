@@ -11,11 +11,11 @@
 ## Install
 
 ```bash
-npm install --save useIsOnline
+npm install --save use-is-online
 
 // Or using yarn
 
-yarn add useIsOnline
+yarn add use-is-online
 ```
 
 ## Usage
