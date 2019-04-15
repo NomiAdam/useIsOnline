@@ -1,0 +1,45 @@
+{
+  "name": "useIsOnline",
+  "version": "0.0.1",
+  "description": "Experimental network availability React hook.",
+  "author": "Adam Kvasnička",
+  "repository": "https://github.com/NomiAdam/useIsOnline",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --config=jest.config.json",
+    "prepublish": "npm test"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "navigator",
+    "internet",
+    "connection",
+    "fetch",
+    "network",
+    "browser"
+  ],
+  "dependencies": {
+    "@types/public-ip": "^2.4.0",
+    "public-ip": "^3.0.0",
+    "ramda": "^0.26.1",
+    "ramda-extension": "^0.7.2",
+    "react": "^16.8.6"
+  },
+  "peerDependencies": {
+    "ramda": ">=0.26.1",
+    "ramda-extension": ">=0.7.2",
+    "react": ">=16.8.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "@types/ramda": "^0.26.6",
+    "@types/react": "^16.8.13",
+    "jest": "^24.5.0",
+    "ts-jest": "^24.0.0",
+    "typescript": "^3.3.4000"
+  }
+}
