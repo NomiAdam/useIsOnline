@@ -1,6 +1,6 @@
 {
   "name": "use-is-online",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Experimental network availability React hook.",
   "author": "Adam Kvasnička",
   "repository": "https://github.com/NomiAdam/useIsOnline",
