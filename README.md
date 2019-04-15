@@ -6,7 +6,7 @@
 
 > TODO: test coverage
 
-[![NPM](https://img.shields.io/npm/v/useIsOnline.svg)](https://www.npmjs.com/package/useIsOnline) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/use-is-online.svg)](https://www.npmjs.com/package/use-is-online) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
