@@ -24,7 +24,7 @@ yarn add useIsOnline
 import React from 'react';
 import { ifElse, always } from 'ramda';
 import { isTruthy } from 'ramda-extension';
-import useIsOnline from 'useIsOnline';
+import useIsOnline from 'use-is-online';
 
 const options = {
     https: true,
